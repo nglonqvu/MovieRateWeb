@@ -1,0 +1,60 @@
+﻿@using WebApp.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+	ViewData["Title"] = "List Movie";
+	var movies = ViewBag.movies;
+	var genres = ViewBag.genres;
+}
+
+<div class="container d-flex dropdown">
+	<div class="menu col-lg-3">
+		<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+			Thể loại
+		</button>
+		<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+			@foreach (Genre g in genres)
+			{
+				<li><a class="dropdown-item" asp-action="List" asp-route-id="@g.GenreId">@g.Description</a></li>
+			}
+		</ul>
+	</div>
+	<div class="container d-flex">
+
+		@if (movies.Count == 0)
+		{
+			<img src="https://cdn.dribbble.com/users/453325/screenshots/5573953/empty_state.png" />
+		}
+		else
+		{		
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css" integrity="sha256-2XFplPlrFClt0bIdPgpz8H7ojnk10H69xRqd9+uTShA=" crossorigin="anonymous" />
+
+			<div class="container">
+                <div class="row justify-content-center product-grid-style">
+
+					<div class="row g-3 g-lg-4">
+
+
+						@foreach (Movie m in movies)
+						{
+							<div class="col-6 col-lg-3">
+								<div class="product-card-10">
+									<div class="product-media"><a href="#"><img class="img-fluid" src="@m.Image" asp-action="Detail" asp-route-id="@m.MovieId" style="width: 500px; height: 400px;"></a></div>
+									<div class="card-body">
+										<h7 class="card-title" style="text-align: center;"><a asp-action="Detail" asp-route-id="@m.MovieId">@m.Title</a></h7>
+										<p class="card-text text-center">
+											Năm: @m.Year<br>
+											Điểm: @($"{@m.AverageRate():n2}")
+										</p>
+										<div class="d-flex justify-content-center">
+											<a asp-action="Detail" asp-route-id="@m.MovieId" class="btn btn-danger">Đánh giá</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						}					
+                    </div>                   
+				</div>
+			</div>
+		}
+	</div>
+</div>

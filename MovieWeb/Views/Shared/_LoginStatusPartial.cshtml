@@ -1,0 +1,14 @@
+﻿@using System.Text.Json;
+@if (Context.Session.GetString("PersonLogin") != null)
+{
+    var PersonLogin = (Person)JsonSerializer.Deserialize<Person>(Context.Session.GetString("PersonLogin"));
+    <form method="post" class="form-inline" asp-controller="Account" asp-action="Logout">
+        Welcome @PersonLogin.Fullname
+        <button type="submit" class="ml-2 btn btn-link" style="text-decoration: none;">Logout</button>
+    </form>
+}
+else
+{
+    <a class="btn btn-link" asp-controller="Account" asp-action="Login" style="text-decoration: none;">Log in</a>
+    <a class="btn btn-link" asp-controller="Account" asp-action="Signup" style="text-decoration: none;">Sign up</a>
+}

@@ -1,0 +1,47 @@
+﻿@using WebApp.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+	Layout = "_AdminLayout";
+	ViewData["Title"] = "List Genres";
+	var Genres = ViewBag.Genres;
+	var msg = ViewData["msg"];
+}
+<h1>List Genres</h1>
+<div class="row">
+	<div class="col-lg-6"><a asp-action="CreateGenres">Create a new Genres</a></div>
+	<div class="col-lg-6 ">
+		<form method="post" asp-action="SearchGenres" class="float-end">
+			<input text="text" placeholder="Search by Name" name="value" />
+			<input type="submit" value="Search" />
+		</form>
+	</div>
+</div>
+@if (msg != null)
+{
+	<p style="color:red;">@msg</p>
+}
+<div class="container">
+	<table class="table table-hover">
+		<thead>
+			<tr>
+				<th scope="col">Genre Id</th>
+				<th scope="col">Description</th>
+				<th scope="col">Action</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (Genre genre in Genres)
+			{
+				<tr>
+					<th scope="row">@genre.GenreId</th>
+					<td>@genre.Description</td>
+					<td>
+						<a asp-action="EditGenre" asp-route-id="@genre.GenreId">Edit</a>
+						<a asp-action="DeleteGenre" asp-route-id="@genre.GenreId">Delete</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>

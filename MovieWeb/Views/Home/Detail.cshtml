@@ -1,0 +1,90 @@
+﻿@using WebApp.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+	Movie movie = ViewBag.Movie;
+	List<Rate> rates = ViewBag.Rates;
+	var personID = ViewBag.PersonId;
+	Rate currentRate = ViewBag.CurrentRate;
+	var editMode = ViewBag.EditMode;
+}
+@model WebApp.Models.Rate
+<div class="container d-flex">
+	<div class="movie-image col-lg-4 d-flex justify-content-center h-75">
+		<img class="col-lg-10" src="@movie.Image" alt="">
+	</div>
+	<div class="movie-detail">
+		<div class="movie movie-text">
+			<h1>@ViewBag.Title</h1>
+			<p class="movie-text">
+				<b>Thể loại: @ViewBag.Genre</b><br><br>
+				<b>Điểm đánh giá: @($"{@ViewBag.AverageRating:n2}")</b><br><br>
+				<b>Mô tả: @ViewBag.Description</b><br><br>
+			</p>
+		</div>
+		<div class="movie movie-rate">
+			@if (@personID == 0)
+			{
+				<a asp-controller="Account" asp-action="Login" class="btn btn-dark">Đánh giá</a>
+			}
+			else
+			{
+				@if (@currentRate == null)
+				{
+					<form method="post" asp-action="Rate">
+						<h2>Chi tiết đánh giá:</h2>
+						<input class="form-control" type="hidden" asp-for="MovieId" value="@movie.MovieId" />
+						<div class="movie-rate-rating d-flex">
+							<label>Điểm đánh giá:</label>
+							<input class="form-control" asp-for="NumericRating" />
+							<span asp-validation-for="NumericRating" style="color:red"></span>
+						</div>
+						<br>
+						<div class="movie-rate-comment">
+							<p>Bình luận:</p>
+							<textarea class="form-control" asp-for="Comment"></textarea>
+							<span asp-validation-for="Comment" style="color:red"></span>
+
+						</div>
+						<input type="submit" class="btn btn-primary" value="Đánh giá" />
+					</form>
+
+				}
+				else
+				{
+
+					<div>
+						<h2>Chi tiết đánh giá:</h2>
+						<input class="form-control" type="hidden" asp-for="@currentRate.MovieId" />
+						<input class="form-control" type="hidden" asp-for="@personID" />
+						<div class="movie-rate-rating d-flex">
+							<label>Điểm đánh giá:</label>
+							<input class="form-control" value="@currentRate.NumericRating" readonly />
+						</div>
+						<br>
+						<div class="movie-rate-comment">
+							<p>Bình luận:</p>
+							<textarea class="form-control" readonly>@currentRate.Comment</textarea>
+						</div>
+						<p style="color: red">Bạn đã đánh giá rồi!</p>
+					</div>
+
+				}
+			}
+		</div>
+		<div class="movie movie-comment">
+			<h2>Bình luận:</h2>
+			@foreach (Rate r in rates)
+			{
+				<div class="d-flex">
+					<p><b>@r.Person.Fullname:</b> @r.Comment </p>
+					@if (@personID == @r.PersonId)
+					{
+						<a asp-controller="Home" asp-action="EditComment" asp-route-personid="@personID" asp-route-movieid="@movie.MovieId">	Chỉnh sửa</a>
+					}
+				</div>
+			}
+
+		</div>
+
+	</div>
+</div>

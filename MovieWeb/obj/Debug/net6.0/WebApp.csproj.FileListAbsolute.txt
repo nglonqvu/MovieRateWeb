@@ -1,0 +1,409 @@
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.Development.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.exe
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.deps.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.pdb
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Humanizer.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.pdb
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.Development.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.exe
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.deps.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.pdb
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Humanizer.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.pdb
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\prn211_project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\PRN211-Project\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.json
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.exe
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.deps.json
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.pdb
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Humanizer.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.pdb
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+D:\HE160153_DuongNH_PRN211_1\Project_PRN211\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.exe
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.deps.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.pdb
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+C:\Users\haiqd\Downloads\Project_PRN211\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.exe
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.deps.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.pdb
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Humanizer.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.pdb
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+D:\SEM5\PRN211\Project_PRN211\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\appsettings.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.exe
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.deps.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\WebApp.pdb
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Humanizer.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.pdb
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+D:\Project_PRN211-20230717T075505Z-001\Project_PRN211\WebApp\obj\Debug\net6.0\ref\WebApp.dll

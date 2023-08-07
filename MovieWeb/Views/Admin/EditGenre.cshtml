@@ -1,0 +1,23 @@
+﻿@using WebApp.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@{
+	Layout = "_AdminLayout";
+	ViewData["Title"] = "Edit Genre";
+	Genre genre = ViewBag.Genre;
+}
+@*<style>
+	label{
+		margin-right:100px;
+	}
+</style>*@
+
+<h1>Edit Genre</h1>
+<form method="post" asp-action="EditGenre">
+	<p>Genre Id:</p>
+	<input asp-for="@genre.GenreId" readonly />
+	<p>Description:</p>
+	<input asp-for="@genre.Description" /><br/>
+	<input type="submit" value="Update" />
+</form>

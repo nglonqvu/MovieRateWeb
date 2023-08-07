@@ -1,0 +1,28 @@
+﻿@using WebApp.Models;
+@model WebApp.Models.Movie
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+@{
+	Layout = "_AdminLayout";
+	ViewData["Title"] = "Create Movie";
+}
+@*<style>
+	label{
+</style>*@
+
+<h1>Create a new Movie</h1>
+<form method="post" asp-action="CreateMovie">
+	<p>Title:</p>
+	<input asp-for="Title" />	<span asp-validation-for="Title"></span>
+	<p>Year:</p>
+	<input asp-for="Year" /><span asp-validation-for="Year"></span>
+	<p>Image:</p>
+	<input asp-for="Image" />	<span asp-validation-for="Image"></span>
+	<p>Description:</p>
+	<input asp-for="Description" />	<span asp-validation-for="Description"></span>
+	<p>Genre:</p>
+	<select asp-for="GenreId" asp-items="ViewBag.GenreId"></select><br><br />
+	<input type="submit" value="Create"/>
+</form>
